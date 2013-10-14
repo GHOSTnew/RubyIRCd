@@ -1,0 +1,7 @@
+-- @@ -- RubyIRC -- Motd -- @@ -- 
+
+  * No name
+  * No country
+  * Only freedom
+
+-- @@ -- Live free or die -- @@ --
